@@ -1,0 +1,54 @@
+.body {
+font-family: "Roboto" sans-serif;
+color: #434455;
+font-size: 12px;
+line-height: 14px;
+letter-spacing: 4%;
+}
+.button{
+    background-color: #404BBF;
+    color:#FFFFFF;
+    cursor: pointer;
+    font-weight: medium;
+    width:169px;
+    height:56px;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%;
+}
+.page-nav .link{
+   color: #2E2F42;
+   font-size: 12px;
+   line-height: 16px;
+   letter-spacing: 4%;
+   text-decoration: none;
+}
+.page-nav .link:hover{
+    color:#4D5AE5;
+}
+.page-nav .link:hover{
+    color:#4D5AE5;
+}
+.adress .link{
+    color: #2E2F42;
+   text-decoration: none;
+}
+.adress .link:hover{
+    text-decoration: none;
+    color:#4D5AE5;
+}
+.button:hover,.button:focus{
+    background-color: #4D5AE5;
+    text-decoration: underline;
+}
+.page-title{
+    font-size:56px;
+    font-weight: bold;
+    line-height: 60px;
+    letter-spacing: 2%;
+}
+.section-title{
+    font-weight: bold;
+    font-size: 36px;
+    letter-spacing: 2%;
+}
