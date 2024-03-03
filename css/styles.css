@@ -83,7 +83,7 @@ body {
     }
     .team-title{
         font-size: 36px;
-        text-align: 1.11;
+        line-height: 1.11;
         text-align: center;
         letter-spacing: 0.02em;
         text-transform: capitalize;
@@ -95,7 +95,7 @@ body {
     .team-title-num{
         font-weight: 500;
         font-size: 20px;
-        line-height: 1.11;
+        line-height: 1.2;
         letter-spacing: 0.02em;
         color:#2e2f42;
     }
