@@ -52,21 +52,21 @@ letter-spacing: 4%;
     text-decoration: none;
     color:#404bbf;
 }
-.sec1{
+.sect1{
     background-color: #2e2f42;
 }
 .button:hover,.button:focus{
     background-color:  #404BBF;
     text-decoration: underline;
 }
-.sec1 .page-title{
+.sect1 .page-title{
     font-size:56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
 }
-.sec1 .title{
+.sect1 .title{
     font-weight: 500;
     font-size: 20px;
     letter-spacing: 0.02em;
