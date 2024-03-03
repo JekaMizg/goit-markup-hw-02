@@ -52,21 +52,21 @@ letter-spacing: 4%;
     text-decoration: none;
     color:#404bbf;
 }
-.sect1{
+.sec1{
     background-color: #2e2f42;
 }
 .button:hover,.button:focus{
     background-color:  #404BBF;
     text-decoration: underline;
 }
-.sect1 .page-title{
+.sec1 .page-title{
     font-size:56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
 }
-.sect1 .title{
+.sec1 .title{
     font-weight: 500;
     font-size: 20px;
     letter-spacing: 0.02em;
@@ -79,9 +79,8 @@ letter-spacing: 4%;
     line-height: 1.5;
 
 }
-.sec2{
-    background-color: #F4F4FD;
-}
+
+
 .sec2 .title{
     font-weight: 500;
     font-size: 20px;
