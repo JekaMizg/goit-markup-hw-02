@@ -21,7 +21,7 @@ letter-spacing: 4%;
 .button{
     letter-spacing: 0.04em;
     background-color: #4D5AE5;
-    font-family: "Roboto";
+    font-family: "Roboto", sans-serif;
     color:#FFFFFF;
     cursor: pointer;
     font-weight: 500;
@@ -35,7 +35,7 @@ letter-spacing: 4%;
     letter-spacing: 0.02em;
     color:#2e2f42;
 }
-.page-nav .link:hover, .link:focus{
+.page-nav .link:hover, .link:active{
     color:#404bbf;
 }
 .address{
@@ -52,21 +52,21 @@ letter-spacing: 4%;
     text-decoration: none;
     color:#404bbf;
 }
-.section1{
+.sec1{
     background-color: #2e2f42;
 }
 .button:hover,.button:focus{
     background-color:  #404BBF;
     text-decoration: underline;
 }
-.page-title{
+.sec1 .page-title{
     font-size:56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
 }
-.section-title{
+.sec1 .title{
     font-weight: 500;
     font-size: 20px;
     letter-spacing: 0.02em;
@@ -79,18 +79,39 @@ letter-spacing: 4%;
     line-height: 1.5;
 
 }
-.sec3{
+.sec2{
     background-color: #F4F4FD;
 }
-.sec3-title{
-    line-height: 1.11;
-    text-align: center;
+.sec2-title{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color:#2e2f42;
+    color: #2e2f42;
 }
-.sec3 .par{
+.sec2 .par{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+.sec3{
+    background-color: #F4F4FD;
+}
+.section3-title{
+    font-size: 36px;
+    text-align: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+.sec3 .img{
+    background-color: #FFFFFF;
+}
+.sec3 .title{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
 }
