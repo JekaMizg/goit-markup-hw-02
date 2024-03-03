@@ -1,5 +1,5 @@
 body {
-font-family: "Roboto" sans-serif;
+font-family: "Roboto", sans-serif;
 color: #434455;
 font-size: 12px;
 background-color: #FFFFFF;
@@ -11,8 +11,6 @@ letter-spacing: 4%;
     color:#FFFFFF;
     cursor: pointer;
     font-weight: medium;
-    width:169px;
-    height:56px;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 4%;
